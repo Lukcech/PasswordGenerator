@@ -1,6 +1,7 @@
 import java.security.SecureRandom;
 import java.util.Scanner;
 
+// Class for generating and evaluating passwords
 class PasswordGenerator {
     private static final String UPPERCASE_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static final String LOWERCASE_CHARS = "abcdefghijklmnopqrstuvwxyz";
